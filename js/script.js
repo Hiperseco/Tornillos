@@ -5,7 +5,7 @@
  var search = document.getElementById("search")
  var logoimg = document.getElementById("logoimg")
 
-body.Element.requestFullscreen();
+body.requestFullscreen();
 
 
  iSearch.addEventListener("click", function () {
