@@ -401,7 +401,7 @@ li {
     text-align: end;
     flex-wrap: wrap;
     position: absolute;
-margin-top:50px;
+margin:50px 0;
     
     
 }
