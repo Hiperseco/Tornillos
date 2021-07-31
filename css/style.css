@@ -360,7 +360,7 @@ li {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: fixed;
+    position: relative;
 }
 
 
@@ -373,7 +373,7 @@ li {
     cursor: pointer;
     position: absolute;
     right: 30px;
-    Button: 0;
+    Top: 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -401,6 +401,7 @@ li {
     text-align: end;
     flex-wrap: wrap;
     position: absolute;
+margin-top:50px;
     
     
 }
