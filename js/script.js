@@ -145,7 +145,7 @@
          urlImg: "https://http2.mlstatic.com/D_NQ_NP_742501-MLA29645104080_032019-O.webp",
      },
      c15867: {
-         nombre: "Hex T1 Chapa 10x3/4",
+         nombre: "Hex T1 Mecha 10x3/4",
          peso: 3.4,
          urlImg: "https://http2.mlstatic.com/D_NQ_NP_828274-MLA42073886674_062020-O.webp",
      },
