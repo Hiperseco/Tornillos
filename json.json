@@ -1,0 +1,106 @@
+[
+{
+         nombre: "T1 Mecha 8x9/16",
+         peso: 1.8,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_850122-MLA45794892879_052021-O.webp",
+     },{
+         nombre: "T2 Aguja 6x1",
+         peso: 1.4,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_2X_884595-MLA42075659698_062020-F.webp",
+     },
+{
+         nombre: "T3 Aguja 6x1.1/2",
+         peso: 1.95,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_2X_884595-MLA42075659698_062020-F.webp",
+     },
+{
+         nombre: "T2 Mecha 6x1.1/8",
+         peso: 1.7,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_645033-MLA44160096768_112020-O.webp",
+     },
+{
+         nombre: "Fix Madera 8x3",
+         peso: 5.3,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_740046-MLA41382619306_042020-O.webp",
+     },
+{
+         nombre: "T1 Aguja 8x9/16",
+         peso: 1.75,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_866719-MLA32865992485_112019-O.webp",
+     },
+{
+         nombre: "Fix Madera 10x1.3/4",
+         peso: 4.25,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_740046-MLA41382619306_042020-O.webp",
+     },
+ {
+         nombre: "T3 Mecha 6x1.5/8",
+         peso: 2.85,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_924774-MLA42501624236_072020-O.webp",
+     },
+ {
+         nombre: "T4 Aguja 6x2",
+         peso: 2.45,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_2X_884595-MLA42075659698_062020-F.webp",
+     },
+ {
+         nombre: "Alas 8x1.1/4",
+         peso: 2.4,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_948404-MLA42073995800_062020-O.webp",
+     },
+ {
+         nombre: "Hex T2 Chapa 12x3/4",
+         peso: 4.7,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_742501-MLA29645104080_032019-O.webp",
+     },
+ {
+         nombre: "Fix Madera 8x1.1/4",
+         peso: 2.3,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_740046-MLA41382619306_042020-O.webp",
+     },
+ {
+         nombre: "Hex T2 Chapa 14x2",
+         peso: 12.3,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_742501-MLA29645104080_032019-O.webp",
+     },
+ {
+         nombre: "T1 Mecha Largo 10x3/4",
+         peso: 2.45,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_850122-MLA45794892879_052021-O.webp",
+     },
+ {
+         nombre: "Alas 10x1.1/2",
+         peso: 3.6,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_948404-MLA42073995800_062020-O.webp",
+     },
+ {
+         nombre: "Alas 10x2",
+         peso: 4.7,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_948404-MLA42073995800_062020-O.webp",
+     },
+ {
+         nombre: "Fix Madera 6x2",
+         peso: 2.45,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_740046-MLA41382619306_042020-O.webp",
+     },
+ {
+         nombre: "Fix Madera 10x2",
+         peso: 4.75,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_740046-MLA41382619306_042020-O.webp",
+     },
+ {
+         nombre: "Hex T2 Madera 14x2",
+         peso: 12.2,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_742501-MLA29645104080_032019-O.webp",
+     },
+ {
+         nombre: "Hex T1 Chapa 10x3/4",
+         peso: 3.4,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_828274-MLA42073886674_062020-O.webp",
+     },
+  {
+         nombre: "Fix Madera 8x1.3/4",
+         peso: 3.1,
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_740046-MLA41382619306_042020-O.webp",
+     },
+]
