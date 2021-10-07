@@ -102,7 +102,7 @@
      c15053: {
          nombre: "Hex T2 Chapa 12x3/4",
          peso: 4.7,
-         urlImg: "https://http2.mlstatic.com/D_NQ_NP_742501-MLA29645104080_032019-O.webp",
+         urlImg: "https://http2.mlstatic.com/D_NQ_NP_828274-MLA42073886674_062020-O.webp",
      },
      c15063: {
          nombre: "Fix Madera 8x1.1/4",
