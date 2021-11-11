@@ -52,7 +52,7 @@ var Tornillos = {
   c908: {
     nombre: "T1 Mecha 8x9/16",
     peso: 1.8,
-    urlImg: "../img/img tornillos/t1 mecha.webp",
+    urlImg: "../img/img-tornillos/t1-mecha.webp",
   },
   c8482: {
     nombre: "T1 Aguja 8x9/16",
