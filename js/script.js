@@ -92,7 +92,7 @@ var Tornillos = {
   c14705: {
     nombre: "Alas 8x1.1/4",
     peso: 2.4,
-    urlImg: "../img/img tornillos/alas.webp",
+    urlImg: "https://i.postimg.cc/Hnn8WWcb/alas.webp",
   },
   c15385: {
     nombre: "Alas 10x1.1/2",
