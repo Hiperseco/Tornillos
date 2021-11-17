@@ -204,6 +204,11 @@ var Tornillos = {
     peso: 1.55,
     urlImg: "https://www.hiperseco.com/uploads/productos/full_size/10933.jpg",
   },
+ cod153111: {
+    nombre: "Arandelas plasticas Eifs",
+    peso: 3.2,
+    urlImg: "https://www.hiperseco.com/uploads/productos/full_size/15311.jpg",
+  },
 
 }
 
