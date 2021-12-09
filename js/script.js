@@ -209,6 +209,11 @@ var Tornillos = {
     peso: 3.2,
     urlImg: "https://www.hiperseco.com/uploads/productos/full_size/15311.jpg",
   },
+  cod120267: {
+    nombre: "Tornillo Hex P17 aguja 14x2.1/2",
+    peso: 14.55,
+    urlImg: "https://www.hiperseco.com/uploads/productos/full_size/120267.jpg",
+  },
 
 }
 
