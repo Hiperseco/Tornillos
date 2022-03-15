@@ -72,7 +72,7 @@ var Tornillos = {
   c3064: {
     nombre: "T3 Aguja 6x1.1/2",
     peso: 1.95,
-    urlImg: "https://firebasestorage.googleapis.com/v0/b/steel-planner.appspot.com/o/2b6760ff-0b89-412a-a9e9-a48ff71d4c5c.jpg?alt=media&token=d839d5df-2682-48dc-91f0-7912fe06e150",
+    urlImg: "https://hiperseco.com/uploads/productos/full_size/15647.webp",
   },
   c14276: {
     nombre: "T4 Aguja 6x2",
