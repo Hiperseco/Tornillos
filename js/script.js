@@ -89,6 +89,11 @@ var Tornillos = {
     peso: 2.85,
     urlImg: "https://hiperseco.com/uploads/productos/full_size/35-7749.webp",
   },
+  c120249: {
+    nombre: "T4 Mecha frezada 10x3",
+    peso: 7.3,
+    urlImg: "https://hiperseco.com/uploads/productos/full_size/35-7749.webp",
+  },
   c14705: {
     nombre: "Alas 8x1.1/4",
     peso: 2.4,
