@@ -134,6 +134,11 @@ var Tornillos = {
     peso: 14.55,
     urlImg: "https://hiperseco.com/uploads/productos/full_size/15279.webp",
   },
+  c120294: {
+    nombre: "Hex T2 Madera Mecha 14x2.1/2",
+    peso: 14.35,
+    urlImg: "https://hiperseco.com/uploads/productos/full_size/15279.webp",
+  },
   c15620: {
     nombre: "Hex T2 Madera 14x2",
     peso: 12.2,
