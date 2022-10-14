@@ -47,7 +47,6 @@ logoimg.addEventListener("click", function () {
 
 
 
-
 var Tornillos = {
   c908: {
     nombre: "T1 Mecha 8x9/16",
@@ -144,6 +143,11 @@ var Tornillos = {
     peso: 12.2,
     urlImg: "https://hiperseco.com/uploads/productos/full_size/15279.webp",
   },
+   c120257: {
+    nombre: "Fix Madera 6x1.3/4",
+    peso: 2.2,
+    urlImg: "https://hiperseco.com/uploads/productos/full_size/15445.webp",
+  },
   c15445: {
     nombre: "Fix Madera 6x2",
     peso: 2.45,
@@ -177,6 +181,16 @@ var Tornillos = {
   c15536: {
     nombre: "Fix Madera 10x2",
     peso: 4.75,
+    urlImg: "https://hiperseco.com/uploads/productos/full_size/15445.webp",
+  },
+  c15866: {
+    nombre: "Fix Madera 10x4",
+    peso: 9.15,
+    urlImg: "https://hiperseco.com/uploads/productos/full_size/15445.webp",
+  },
+  c120250: {
+    nombre: "Fix Madera 12x5",
+    peso: 14.55,
     urlImg: "https://hiperseco.com/uploads/productos/full_size/15445.webp",
   },
   cod4791: {
@@ -218,6 +232,11 @@ var Tornillos = {
     nombre: "Arandelas plasticas Eifs",
     peso: 3.2,
     urlImg: "https://hiperseco.com/uploads/productos/full_size/15311.webp",
+  },
+  cod15505: {
+    nombre: "Arandelas plasticas Eifs Blancas",
+    peso: 3.4,
+    urlImg: "https://http2.mlstatic.com/D_NQ_NP_815376-MLA50831028921_072022-O.webp",
   },
   cod120267: {
     nombre: "Tornillo Hex P17 aguja 14x2.1/2",
