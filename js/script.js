@@ -228,6 +228,11 @@ var Tornillos = {
     peso: 1.55,
     urlImg: "https://hiperseco.com/uploads/productos/full_size/10933.webp",
   },
+  cod7434: {
+    nombre: "Tarugo p/placa yeso",
+    peso: 1.55,
+    urlImg: "https://hiperseco.com/uploads/productos/full_size/70-7434.webp",
+  },
  cod153111: {
     nombre: "Arandelas plasticas Eifs",
     peso: 3.2,
